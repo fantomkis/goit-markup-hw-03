@@ -52,6 +52,7 @@ img {
 /*шапка */
 .header {
   padding: 32px 0;
+  border-bottom: 1px solid #ECECEC;
 }
 .header .container {
   display: flex;

@@ -13,7 +13,6 @@ body {
   font-family: Roboto, sans-serif;
   font-weight: 400;
   font-size: 14px;
-  line-height: 1.71;
 }
 
 h1,
@@ -56,7 +55,7 @@ img {
 
 /*шапка */
 .header {
-  padding: 32px 0;
+  padding: 24px 0;
   border-bottom: 1px solid #ECECEC;
 }
 
@@ -187,7 +186,6 @@ texte lain center .site-nav .active {
 .section-titel {
   display: flex;
   align-items: center;
-  padding: 95px 0;
 }
 
 .specifics-list {
@@ -241,6 +239,7 @@ texte lain center .site-nav .active {
   align-items: center;
   margin-top: 50px;
 }
+
 .foto-list {
   margin-right: 30px;
 }
@@ -265,7 +264,7 @@ texte lain center .site-nav .active {
 
 .team-cart-conteiner{
   text-align: center;
-  padding: 30px 0;
+  padding: 30px 0; 
 }
 
 .team-titel {
@@ -287,6 +286,7 @@ texte lain center .site-nav .active {
   /* identical to box height */
   letter-spacing: 0.03em;
   color: var(--title-text-color);
+  margin-bottom: 10px;
 }
 
 .team-position {
@@ -400,8 +400,8 @@ texte lain center .site-nav .active {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding-bottom: 34px;
-  margin: 0 auto;
+  margin-bottom: 50px;
+
 }
 
 .content-proekt{
@@ -423,6 +423,9 @@ texte lain center .site-nav .active {
 
   .card-text{
   padding: 20px 24px ;
+  border-right: 1px solid #EEEEEE;
+  border-bottom: 1px solid #EEEEEE;
+  border-left: 1px solid #EEEEEE;
 }
 
   .button-list{

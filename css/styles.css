@@ -374,7 +374,7 @@ texte lain center .site-nav .active {
 .content-proekt{
   display: flex;
 flex-wrap: wrap;
-
+margin-right: -30px;
 
 
 

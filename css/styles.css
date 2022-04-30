@@ -162,6 +162,8 @@ texte lain center .site-nav .active {
   border-radius: 4px;
   margin: 0 auto;
   display: block;
+  min-width: 200px;
+  padding: 10px 32px;
 }
 
 /* особиности  */
